@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NextJs, NodeJs, ExpressJs, ReactNative.**
 
-- 👨‍💻 All of my projects are available at [https://orion-portfolio.vercel.app](https://orion-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.orionscript.dev](https://www.orionscript.dev)
 
 - 💬 Ask me about **Javascript, React, Next, NodeJs, ExpressJs, ReactNative, Typescript.**
 
