@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="orion-script" alt="orion" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/orion_codes" target="blank"><img src="https://img.shields.io/twitter/follow/orion_codes?logo=twitter&style=for-the-badge" alt="orion_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/orionscript" target="blank"><img src="https://img.shields.io/twitter/follow/orionscript?logo=twitter&style=for-the-badge" alt="orionscript" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, NextJs, NodeJs, ExpressJs, ReactNative.**
 
